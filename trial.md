@@ -10,7 +10,7 @@
 
 
 1. This is step 1.
-2. This is step 2.
+ 2. This is step 2.
 
 3. This is step 3.
 
